@@ -1,0 +1,81 @@
+
+#Incipit
+V. Donu, Sinjoro, benon.
+Benedictio. Kvietan nokton kaj perfektan finon donu al ni Ĉiopova Dio. Amen.
+
+#Lectio brevis
+!1 Pet 5:8-9
+v. Gefratoj: estu sobraj, vigladu; via kontraŭulo, la diablo, kiel leono blekeganta ĉirkaŭiras, serĉante, kiun li povos forgluti; lin rezistu, konstantaj en la fido.
+$Tu autem
+
+V. Nia helpo + estas en la nomo de la Eternulo.
+R. Kiu kreis la ĉielon kaj la teron.
+
+!Ekzameno de konscienco aŭ Patro Nia silente.
+$Pater noster
+
+$Confiteor
+$Misereatur
+$Indulgentiam
+
+V. Turnu Vin +++ al ni, ho Dio de nia savo,
+R. Kaj ĉesigu Vian koleron kontraŭ ni. 
+$Deus in adjutorium
+&Gloria
+&Alleluia
+
+#Psalmi
+
+#Hymnus {:H-Completorium:}
+v. Jam svenas taga suno-bril'.
+Ĉi preĝon aŭdu, Mond-Sinjor':
+Nin nokte ŝirmu en trankvil'
+laŭ Via povo kaj favor'.
+-
+Dormante post laciga pen',
+en Vi ni hejmu sen danĝer',
+estonte pretaj en maten'
+Vin glori, laŭdi kun sincer'.
+-
+* Vin, forta Patro, dankas ni:
+Vi gardas ĉiujn nin en grac',
+kaj kun Spirit' kaj Filo Vi
+promesas vivon en la pac'.
+Amen. 
+
+#Capitulum Responsorium Versus
+!Jer 14:9
+v. Vi estas ja meze de ni, ho Eternulo, kaj ni portas sur ni Vian nomon; ne forlasu nin, Eternulo, nia Dio.
+R. Al Dio estu danko.
+_
+R.br. En Vian manon, Eternulo, mi transdonas mian spiriton.
+R. En Vian manon, Eternulo, mi transdonas mian spiriton.
+V. Vi savas min, ho Eternulo, Dio de la vero.
+R. Mi transdonas mian spiriton.
+&Gloria1
+R. En Vian manon, Eternulo, mi transdonas mian spiriton.
+_
+V. Gardu min kiel la pupilon de la okulo.
+R. Per la ombro de Viaj flugiloj kaŝu min.
+
+#Canticum: Nunc dimittis
+Ant. Nin savu, * Dio, dum ni viglas, protektu nin, dum ni dormas, por ke ni viglu kun Kristo kaj ripozu en paco.
+(sed rubrica 1955) Ant. Savu nin.
+&canticum(3)
+&Gloria
+Ant. {::}Nin savu, * Dio, dum ni viglas, protektu nin, dum ni dormas, por ke ni viglu kun Kristo kaj ripozu en paco.
+
+#Oratio
+&Dominus_vobiscum
+$Oremus		
+v. Vizitu, Dio, ni petas, tiun ĉi loĝejon, kaj malproksimen forpelu de ĝi ĉiujn insidojn de la malamiko. Viaj sanktaj anĝeloj loĝu en ĝi. Ili nin gardu en paco; kaj Via beno estu ĉiam sur ni.
+$Per Dominum
+
+#Conclusio
+&Dominus_vobiscum
+&Benedicamus_Domino
+Benedictio. Benu kaj gardu nin ĉiopova kaj mizerikorda Sinjoro, + Patro, kaj Filo, kaj Sankta Spirito.
+R. Amen.
+
+&antiphona_finalis
+&Divinum_auxilium
