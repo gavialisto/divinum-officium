@@ -21,7 +21,7 @@ Language 2~>$lang2~>Optionmenu~>languages
 Psalmversion->$accented~>Optionmenu~>psalmversion
 
 [languages]
-Latin,Deutsch,English,Espanol,Francais,Italiano,Magyar,Polski,Polski-Newer,Bea
+Latin,Deutsch,English,Espanol,Esperanto,Francais,Italiano,Magyar,Polski,Polski-Newer,Bea
 
 [psalmversion]
 accented,plain
