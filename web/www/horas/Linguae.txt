@@ -1,6 +1,7 @@
 Deutsch
 English
 Espanol
+Esperanto
 Francais
 Italiano
 Magyar
